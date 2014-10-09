@@ -12,7 +12,7 @@ p{
 div.vr{
 	width:1px;
 	float:center;    
-    background-color:#000;
+    background-color:#0FF;
     position:absolute;
     top:142px;
     bottom:0;
@@ -25,16 +25,9 @@ padding:6px 12px;
 margin-bottom:0;
 font-size:14px;
 width:90px;
-font-weight:normal;
-line-height:1.42;
-text-align:center;
-white-space:nowrap;
-vertical-align:middle;
-cursor:pointer;
 background-image:none;
 border:1px solid transparent;
-border-radius:4px;
-user-select:none;
+
 color:#fff;
 background-color:#428bca;
 border-color:#357ebd
@@ -43,8 +36,6 @@ border-color:#357ebd
 
 	.form-login-control,.register-control {
 border: 1px solid #b7bbbd;
--webkit-border-radius: 5px;
--moz-border-radius: 5px;
 border-radius: 5px;
 padding: 4px;
 width: 200px;
